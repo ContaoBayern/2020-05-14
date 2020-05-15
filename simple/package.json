@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "serve": "browser-sync start --server --port 8080 --files \"*.css, *.js, *.html\""
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.7"
+  }
+}
